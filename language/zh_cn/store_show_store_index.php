@@ -23,7 +23,7 @@ $lang['show_store_index_store_name']			= '店铺名称：';
 $lang['show_store_index_store_grade']			= '店铺等级：';
 $lang['show_store_index_store_qrcode_collect']	= '二维码收藏店铺';
 $lang['show_store_index_essential_information']	= '基本信息';
-$lang['show_store_index_register_time']			= '注册时间：';
+$lang['show_store_index_register_time']			= '注册时间：';
 $lang['show_store_index_last_login_time']		= '上次登录：';
 $lang['shoe_store_index_email']					= '电子邮件：';
 $lang['shoe_store_index_qq']					= '&#12288;&#12288;Q Q：';
@@ -53,6 +53,6 @@ $lang['show_store_credit_anonymousbuyer_title']	= '匿名买家：';
  */
 $lang['show_store_all_new']					= '新品';
 $lang['show_store_all_price']				= '价格';
-$lang['show_store_all_sale']				= '销量';
+$lang['show_store_all_sale']				= '销量';
 $lang['show_store_all_collect']				= '收藏';
 $lang['show_store_all_click']				= '人气';
